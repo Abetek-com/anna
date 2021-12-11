@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](abetek.com) and ![Image](src)
+[abetek.com](abetek.com) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.abetekhub.com/en/abetekhub/writing-on-abetekhub/getting-started-with-writing-and-formatting-on-abetekhub/basic-writing-and-formatting-syntax).
